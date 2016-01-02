@@ -1,0 +1,100 @@
+/* feuille de style css*/
+body
+{
+	background:url("images/bg.jpg") fixed repeat-x;
+		text-align:justify;
+			margin:auto;
+			}
+			#logo_area
+			{
+				color:white;
+					height:100px;
+						background:url('images/logo.gif') no-repeat 20px 35px;
+							width:900px;
+								margin:auto;
+									text-align:right;
+									}
+									#logo_area ul
+									{
+										list-style-type:none;
+											padding-top:45px;
+												margin-right:20px;
+													letter-spacing:.05em;
+													}
+													#logo_area ul li
+													{
+														display:inline-block;
+														}
+														#logo_area ul li a
+														{
+															text-decoration:none;
+																color:white;
+																	
+																	}
+																	.nav_line
+																	{
+																		border-left:1px solid #666;
+																		}
+																		#wrapper
+																		{
+																			background-color:white;
+																				width:900px;
+																					border-top:5px solid #a8a8a8;
+																						margin:auto;
+																							text-align:justify;
+
+																							}
+																							#header
+																							{
+																								background:url("images/header.jpg")  no-repeat 20px 20px;
+																									height:170px;
+																									}
+																									#content
+																									{
+																										text-align:left;
+																											padding-top:20px;
+																												margin-left:20px;
+																													width:510px;
+
+
+																													}
+																													#sidebar
+																													{
+																														text-align:right;
+																															margin-right:20px;
+																																width:310px;
+																																	float:right;
+																																		padding-top:20px;
+																																		}
+																																		#sidebar h3
+																																		{
+																																			background:url('images/h3_bg.jpg') repeat-x ;
+
+																																			}
+																																			#content,#sidebar
+																																			{
+																																				display:inline-block;
+																																					margin-right:20px;
+																																						margin:auto;
+																																						}
+																																						h3
+																																						{
+																																							text-align:left;
+																																								padding:10px;
+																																									font-size:24px;
+																																										color:white;
+																																										}
+																																										h1,h2,h3,h4,h5,h6 
+																																										{
+																																											font-family:Georgia, serif;
+																																												font-weight:100;
+																																												}
+																																												#footer
+																																												{
+
+																																													background:#a8a8a8;
+																																														line-height:3em;
+																																															color:#fff;
+																																																text-align:center;
+																																																}
+
