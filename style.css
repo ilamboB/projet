@@ -1,7 +1,9 @@
 /* feuille de style css*/
 /* REMARQUES
 -- L'indentation est applicable en CSS aussi
--- Ton code n'est pas indenté*/
+-- Ton code n'est pas indenté
+-- Le resultat obtenu ne correspond pas exactement au resultat dans l'image
+-- Essaye de vraiment avoir le même resultat, c'est très important*/
 body
 {
 	background:url("images/bg.jpg") fixed repeat-x;
